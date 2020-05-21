@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"kHAAA,mB","file":"main.1a506460fd1596cb460b.js","sourcesContent":["// import menu from './menu.json';\n// import menuItemTemplate from './templates/menu-item.hbs';\nimport './styles.css';\n"],"sourceRoot":""}
